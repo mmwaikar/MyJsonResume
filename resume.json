@@ -33,7 +33,7 @@
       "position": "Technical Project Manager",
       "website": "http://www.intelliheads.com",
       "startDate": "2013-10-01",
-      "endDate": "2014-12-01",
+      "endDate": "2014-08-31",
       "summary": "Build and deliver the self service portal using AngularJS, Bootstrap for the frontend and WebAPI for the backend. Enhance ProxyClient - a parental control software which uses Komodia SDK to control access to Internet. The software contains a windows service which wraps the Komodia SDK and decides if a particular TCP/IP connection (to Internet) should be allowed. A small system tray application called Notify Icon lets the user know about the state of the windows service.",
       "highlights": [
         "Use Angular controllers, directives, resource service, http service and factories",
@@ -74,6 +74,21 @@
       ]
     },
     {
+      "company": "LikeStream, USA",
+      "position": "Consultant",
+      "website": "http://www.likestream.net",
+      "startDate": "2011-07-01",
+      "endDate": "2012-01-31",
+      "summary": "LikeStream lets you see Restaurant recommendations from friends you trust. It is a Facebook app that lets you choose which of your friends' restaurant recommendations you'll see when you are looking for suggestions.",
+      "highlights": [
+        "Screen scraping a website using Enlive",
+        "Add functionality to Lobos (https://github.com/budu/lobos/ - a clojure library to create and manipulate SQL database schemas with migrations support) to support Java migrations using Flyway ( http://code.google.com/p/flyway/ )",
+        "Partial bugfix in Lobos, and reporting other issues to the author ( https://groups.google.com/forum/#!topic/lobos-library/le8vgf4TkNw )",
+        "Documenting the lein-flyway project (https://github.com/teropa/lein-flyway)",
+        "Solved 90+ problems on http://www.4clojure.com"
+      ]
+    },
+    {
       "company": "PJM Interconnection, USA",
       "position": "Consultant (through First-Tek Technologies)",
       "website": "http://www.pjm.com/",
@@ -101,7 +116,7 @@
       ]
     },
     {
-      "company": "Pitney Bowes",
+      "company": "Pitney Bowes, USA",
       "position": "Consultant (through Horizon International)",
       "website": "http://www.pitneybowes.com/us",
       "startDate": "2008-02-01",
@@ -117,7 +132,7 @@
       ]
     },
     {
-      "company": "JPMorgan Chase",
+      "company": "JPMorgan Chase, USA",
       "position": "Consultant (through Horizon International)",
       "website": "http://www.jpmorganchase.com/",
       "startDate": "2007-10-01",
